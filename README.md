@@ -74,8 +74,7 @@ User: Pick the best one for a Python beginner.
 ```
 
 ## Result
-
-_Add screenshot here_
+<img width="657" height="51" alt="image" src="https://github.com/user-attachments/assets/83e9201e-1311-4491-ba2e-baae61293267" />
 
 ---
 
