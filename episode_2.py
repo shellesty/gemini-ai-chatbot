@@ -14,7 +14,7 @@ client = genai.Client(
 messages = []
 
 # First user message
-user_input_1 = "Who is Virat Kohli?"
+user_input_1 = "Who is Virat Kohli? Answer in 5 words only."
 
 messages.append(
     {
@@ -40,7 +40,7 @@ messages.append(
 print(response_1.text)
 
 # Second user message
-user_input_2 = "How many centuries did he make?"
+user_input_2 = "How many centuries did he make? Just number."
 
 messages.append(
     {
