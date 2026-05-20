@@ -1,4 +1,4 @@
-# Gemini AI Chatbot Journey 🤖
+# Gemini AI Chatbot Journey
 
 This repository documents my step-by-step journey of building a conversational AI chatbot using the Google Gemini API, Python, and Streamlit.
 
@@ -16,7 +16,7 @@ Key areas covered throughout this project include:
 
 The progression across episodes demonstrates how modern AI applications evolve from basic LLM calls into intelligent, context-aware conversational systems.
 
-## Tech Stack
+### Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -140,8 +140,7 @@ Unlike Episode 7, responses are now generated progressively in real time instead
 - AI Agents
 
 
-# 👨‍💻 Author
+### Author
 
 Shellesty Yalla
 
-Building AI applications one episode at a time 🚀
